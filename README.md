@@ -10,3 +10,4 @@ This app is used to translate file format .xls of excel to xml. But there are so
   
 3. Those functions above are including in the same programe
 4. Just excute MainPath.java
+5. Copy contents in "CopyMeToResourceFile" under xlsToXml to destination path. 
